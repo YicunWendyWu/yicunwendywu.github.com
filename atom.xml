@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sharing is good]]></title>
+  <title><![CDATA[Sharing Is Good]]></title>
   <link href="http://YicunWendyWu.github.com/atom.xml" rel="self"/>
   <link href="http://YicunWendyWu.github.com/"/>
-  <updated>2012-11-17T22:28:19-08:00</updated>
+  <updated>2012-12-01T22:10:23-08:00</updated>
   <id>http://YicunWendyWu.github.com/</id>
   <author>
     <name><![CDATA[Yicun Wu]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Start of a Blog]]></title>
+    <link href="http://YicunWendyWu.github.com/blog/2012/12/01/the-start-of-a-blog/"/>
+    <updated>2012-12-01T21:50:00-08:00</updated>
+    <id>http://YicunWendyWu.github.com/blog/2012/12/01/the-start-of-a-blog</id>
+    <content type="html"><![CDATA[<p>I love reading blogs. For me, it is a good way to learn about what&#8217;s happening to friends and how they cope with the various things happened. It is also a pleasant way to get access to the minds of influential people.</p>
+
+<p>A blog is a free place to share thoughts with the rest of the world. Despite all the benefits of having a blog, I noticed that fewer and fewer people are writing blog posts anymore because of the fact that people are generally more busy with other forms of thought sharing such as SNS. Additionally, professional blogs are ruling the Internet reading space and people tend to use shorter forms such as Twitter to express themselves so in order for a personal blog to have a wide readership, the articles need to be of higher quality than ever before. Even though I have been blogging intermittently since high school, I never considered myself a blogger because my blog posts are just usually just random rants about life and no one visits my blog so the influence is really limited.</p>
+
+<p>I just had lunch with a friend who has very interesting thoughts on various topics such as communication, computer science trends and
+entrepreneurship. During the lunch, as he talked me through his latest thoughts on Windows RT, I suggested that he should blog about them because the thoughts were really amazing and it would be interesting to see how our friends would react to his points. I was not able to convince him and I felt that it&#8217;s a shame that his good thoughts could not be spread further and get the influence deserved.</p>
+
+<p>I&#8217;ve been told by people that I sometimes have good ideas and I should speak up more often. So here I am getting started on a blog because I feel that my thoughts might want to be shown and maybe someone can benefit from them. (I know I benefit from putting them together and gaining organization skills :)) This time I will try to more organized. It&#8217;s a long way to go.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
